@@ -1,11 +1,11 @@
-## Hey there! I am Leandro Souza 🖐️
+## Hey there! I am Leandro Costa 🖐️
 
 
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-souz4/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lean.souz4/)
 
 
-![Leandro´s GitHub stats](https://github-readme-stats.vercel.app/api?username=leansouz4&show_icons=true&theme=dracula&count_private=true)
+
 
 ## Technologies I use daily
 
